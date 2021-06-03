@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the Committee at Yorke to the House of Commons concerning all the passages that happened there from the fifth of Iuly to the twelfth. Wherein is declared and laid open the great affronts which they daily receive by the malignants that are thereabouts.  Likewise the Parliaments resolution concerning the Earle of Lindsey and the Lord Savill, there being 14. of the Lords and 34. of the Commons appointed for the same purpose.  With the accusation and charge against Mr. Henry Hastings assented to by both Houses of Parliament.  Ordered that this be printed, and published ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43445</idno><idno type="EEBO-CITATION">297426155</idno>
+  <idno type="VID">208145</idno>
+  <idno type="EEBO-PROQUEST">2240897180</idno>
+  
+            <idno type="OCLC"> 297426155</idno>
+            <idno type="OCLC">ocn 297426155</idno>
+            <idno type="STC">Wing M1904A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208145)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2923:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the Committee at Yorke to the House of Commons concerning all the passages that happened there from the fifth of Iuly to the twelfth. Wherein is declared and laid open the great affronts which they daily receive by the malignants that are thereabouts.  Likewise the Parliaments resolution concerning the Earle of Lindsey and the Lord Savill, there being 14. of the Lords and 34. of the Commons appointed for the same purpose.  With the accusation and charge against Mr. Henry Hastings assented to by both Houses of Parliament.  Ordered that this be printed, and published ...</title>
+                  <author>Stapleton, Philip, Sir, 1603-1647.</author>
+                  <author>Cholmley, Hugh, Sir, 1600-1657.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London] : July, 14. London printed for I.H. and T. Ryder,</name>
+                     <date>1642.</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [8] by Hugh Cholmly and Sir Philip Stapleton.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages have print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:208145:1"/>
+            <pb facs="tcp:208145:2"/>
+            <p> A MESSAGE Sent from the Committee at <hi>Yorke</hi> to the House of COMMONS concerning all the passages that happened there from the fifth of <hi>Iuly</hi> to the twelfth.</p>
+            <p>Wherein is declared and laid open the great affronts which they daily receive by the malignants that are thereabouts.</p>
+            <p>Likewise the Parliaments Resolution concer<g ref="char:EOLhyphen"/>ning the Earle of <hi>Lindsey</hi> and the Lord <hi>Savill,</hi> there being 14. of the Lords and 34. of the Com<g ref="char:EOLhyphen"/>mons appointed for the same purpose.</p>
+            <p>With the Accusation and Charge against Mr. <hi>Henry Hastings</hi> assented to by both Houses of Parliament.</p>
+            <p>Ordered that this be Printed, and pub<g ref="char:EOLhyphen"/>lished.</p>
+            <p>
+               <hi>John Browne, Cler. Parl.</hi>
+            </p>
+            <p>
+               <hi>Hen. Elsin, Cler. D. C.</hi>
+            </p>
+            <p>July, 14. LONDON, Printed <hi>I. H.</hi> and <hi>T. Ryder,</hi> 1642.</p>
+            <pb facs="tcp:208145:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:208145:3"/>
+            <head>A Message sent from the Com<g ref="char:EOLhyphen"/>mittee at <hi>Yorke,</hi> to the House of Commons, concerning all the Passages that happen<g ref="char:EOLhyphen"/>ed there since the 5. of <hi>Iuly,</hi> to this present.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Subjects of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath more di<g ref="char:EOLhyphen"/>stractions and cros<g ref="char:EOLhyphen"/>ses befalne them now of late, then any Subjects that are governed by any Prince in the vast world, for never was Subject so tor<g ref="char:EOLhyphen"/>mented with feares, as now, and all within our selves, being at peace with all Nations, have wee had so long a time of glorious peace, that we are now growne weary of it: Oh woe be
+<pb facs="tcp:208145:4"/> to those creatures that are Enemies to the peace? Who may wee name these to be, but the malignant party, which ever since this present Parliament as<g ref="char:EOLhyphen"/>sembled, have sought the utter ruine and distruction of them and the whole Kingdome. This malignant party, are those which are adherents to the See of <hi>Rome,</hi> otherwise their proceedings and actions could never be so vehement against the true Protestants of this Kingdome, as may appeare by the acti<g ref="char:EOLhyphen"/>ons of Mr. <hi>Henry Hastings,</hi> and divers others, who contrary to the Parliaments command, sought all waies possible might be, to hinder the proceedings of the <hi>Militia,</hi> to the great feare and terror of the Subjects in those Coun<g ref="char:EOLhyphen"/>tries, the which hath caused many troubles and distractions to arise in this Kingdome.</p>
+            <p>Therefore the Parliament out of their judicious care, taking the actions of those persons into consideration,
+<pb facs="tcp:208145:4"/> thought it a greae breach of Sr. <hi>Hen<g ref="char:EOLhyphen"/>ry Hastings,</hi> to come with so many ar<g ref="char:EOLhyphen"/>med men into <hi>Liecester-shire,</hi> to the great amazment and terror of the whole County, and that it was a bold attempt of them to presume so farre to proclaime himselfe high <hi>Sheriffe,</hi> likewise to proclaime the Earle of <hi>Stamford</hi> Traitor, it being a great abuse to his Honourable person, whose name is made glorious to the whole world.</p>
+            <p>Therefore they resolved to draw up a Charge against him for his high mis<g ref="char:EOLhyphen"/>demeanors, which having done, the said House sent up to the Lords, to have a conference therein, and after some debate, it was read and assented to, wherein they resolved that the said Mr. <hi>Hastings</hi> should be forthwith sent for to answer to those particulars which they had laid to his charge.</p>
+            <p>Also the Parliament having taken into consideration the high Crimes, and misdemeanors which the Earle
+<pb facs="tcp:208145:5"/> of <hi>Lindsey,</hi> and the Lord <hi>Savill,</hi> have committed since their going to <hi>Yorke,</hi> resolved and concluded, that if his Majesty denied their comming, as he did <hi>Becket</hi> the great Papist of <hi>Yorke,</hi> which report the Messenger that went for the said <hi>Becket,</hi> related to the house, how that the Cavaleers rescued him from him, and after he had his priso<g ref="char:EOLhyphen"/>ner restored againe to him, by the meanes of the Committee at <hi>Yorke,</hi> was afterward sent for to his Majesty, and Answer returned, that when the Par<g ref="char:EOLhyphen"/>liament gave him Iustice against <hi>Sir Iohn Hotham,</hi> he would deliver <hi>Becket</hi> to them, then there was a conference with the Commons, at which they mo<g ref="char:EOLhyphen"/>ved the Lords to joyne with them in sending for the said two Lords, and if they were refused as was <hi>Bec<g ref="char:EOLhyphen"/>ket,</hi> to fetch them by force, and that both Houses would take into conside<g ref="char:EOLhyphen"/>ration, what is fitting to be done, for the security of the whole Kingdome,
+<pb facs="tcp:208145:5"/> and the contempt of the Orders of Parliament, to which the Lords a<g ref="char:EOLhyphen"/>greed there being a Committee of 14. Lords and 34. of the House of Commons appointed for the same purpose.</p>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon the last meeting at <hi>York</hi> there was the Messages betweene the King and Parliament read, but it was done with much applause of the Kings Messages, but when any thing of the Parliaments came to be read, it was done with much hooting and reviling, the Parliament seeing that vil'd abuse made His Majesty acquain<g ref="char:EOLhyphen"/>ted with it, but some were so bold as to say openly; That the Parliament men should set their Houses in order, for many of them should shortly have their Heads of, With many more re<g ref="char:EOLhyphen"/>viling and abusive speeches.</p>
+               <pb facs="tcp:208145:6"/>
+               <p> There came also divers thousands of Free-holders to this City, but they received a command from the King not to come to Court.</p>
+               <p>
+                  <hi>Sir,</hi> What dangers this poore Coun<g ref="char:EOLhyphen"/>try lyes under, we humbly referre it to you to judge, not taking upon us to deliver any opinion.</p>
+               <closer>
+                  <signed>Your assured friends and servants.
+<list>
+                        <item>Hugh Cholmly <hi>and</hi>
+                        </item>
+                        <item>
+                           <hi>Sir</hi> Philip Stapleton.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>Ordered to be Printed and Published.</p>
+            <p>
+               <hi>John Browne, Cler. Parl.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
